@@ -50,8 +50,8 @@ Data Store 		|									  |
 
 --]]
 
-local md5 = require("md5")
-local json = require("json")
+local md5 = require("MD5")
+local json = require("JSON")
 local http = require("socket.http")
 
 local _ = {
